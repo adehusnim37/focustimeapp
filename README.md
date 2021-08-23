@@ -11,7 +11,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 <!--lint enable no-emphasis-as-heading-->
 
 :gem: means **really _awesome/useful_**.<br />
-! This app can run into **it's _webapp/webservice_**.<br />
+! This app can run into <br />
+**webapp/webservice**.<br />
 **runs on _Android_**.<br />
 **runs on _iOS_**.<br />
 
